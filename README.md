@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... open source projects
 - 📫 How to reach me ... is through this platform
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... that's a hard one
 
 <!---
 vasquez-jpr/vasquez-jpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
